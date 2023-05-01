@@ -13,7 +13,7 @@ If you're looking for a job on who's hiring thread, SQL-as-interface for a searc
 
 Just pass Who's hiring url as a parameter to load all top-level children comments, wait until all job posts are loaded to your own local SQLite db in a browser and run any full text search queries to find your dream job. 
 
-Example: September 2022 Who's hiring thread: https://mstrahov.github.io/hnsql/?https://news.ycombinator.com/item?id=32677265 or just https://mstrahov.github.io/hnsql/?32677265
+Example: May 2023 Who's hiring thread: https://mstrahov.github.io/hnsql/?https://news.ycombinator.com/item?id=35773707 or just https://mstrahov.github.io/hnsql/?35773707
 
 Save your db to a local file, restore db from a saved file. Comments from the last HN story in your db will be updated upon opening the file automatically. 
 
